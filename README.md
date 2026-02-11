@@ -9,8 +9,6 @@
   <a href="mailto:nikolapajovic67@gmail.com">Email</a>
 </p>
 
----
-
 ## Engineering Focus
 
 I design and build backend systems with emphasis on:
@@ -24,16 +22,12 @@ I design and build backend systems with emphasis on:
 
 I approach projects as production systems — not academic exercises.
 
----
-
 ## Engineering Philosophy
 
 - Systems first, features second  
 - Design before implementation  
 - Performance-aware development  
 - Clean abstractions over quick hacks  
-
----
 
 ## Tech Stack
 
@@ -45,8 +39,6 @@ I approach projects as production systems — not academic exercises.
 **Backend:** Express • Prisma ORM • REST APIs  
 **Frontend:** React  
 **Infrastructure:** Docker • Git  
-
----
 
 ## Systems & Projects
 
@@ -69,8 +61,6 @@ Engineering Focus:
 Stack: Node.js • TypeScript • Web3/Ethers  
 Repo: https://github.com/nikolapajovic01/ethereum-transactions-crawler
 
----
-
 ### AgroB2B Hub
 
 Data-driven B2B platform built with modular backend architecture.
@@ -84,21 +74,23 @@ Data-driven B2B platform built with modular backend architecture.
 Stack: React • Node.js • Prisma • PostgreSQL  
 Repo: https://github.com/nikolapajovic01/agrob2b-hub
 
----
-
 ### Banking Application
 
-Microservices-oriented simulation of banking infrastructure.
+Frontend implementation of a microservices-oriented banking system.
 
-- Card lifecycle management (activation, blocking)
-- Transaction logic layer
-- Role-based system (admin/user)
-- Containerized services
+Responsibilities:
+- Card lifecycle UI (activation, blocking, status handling)
+- Transaction interface integration
+- Role-based frontend logic (admin/user views)
+- API communication with backend services
 
-Stack: Node.js • PostgreSQL • Docker  
+Collaboration:
+- Worked closely with backend services team
+- Integrated REST endpoints into frontend workflows
+- Ensured consistent data handling between layers
+
+Stack: React • TypeScript • REST APIs  
 Repo: https://github.com/nikolapajovic01/Banka-1-Frontend
-
----
 
 ## Current Focus
 
