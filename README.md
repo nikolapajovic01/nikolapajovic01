@@ -50,21 +50,6 @@ I approach projects as production systems — not academic exercises.
 
 ## Systems & Projects
 
-### AgroB2B Hub
-
-Data-driven B2B platform built with modular backend architecture.
-
-- Relational database design (PostgreSQL)
-- RBAC system implementation
-- API-first backend structure
-- ORM abstraction layer (Prisma)
-- Production-style project structure
-
-Stack: React • Node.js • Prisma • PostgreSQL  
-Repo: https://github.com/nikolapajovic01/agrob2b-hub
-
----
-
 ### Ethereum Transactions Crawler
 
 Blockchain data processing system for extracting, analyzing and structuring Ethereum transactions.
@@ -83,6 +68,21 @@ Engineering Focus:
 
 Stack: Node.js • TypeScript • Web3/Ethers  
 Repo: https://github.com/nikolapajovic01/ethereum-transactions-crawler
+
+---
+
+### AgroB2B Hub
+
+Data-driven B2B platform built with modular backend architecture.
+
+- Relational database design (PostgreSQL)
+- RBAC system implementation
+- API-first backend structure
+- ORM abstraction layer (Prisma)
+- Production-style project structure
+
+Stack: React • Node.js • Prisma • PostgreSQL  
+Repo: https://github.com/nikolapajovic01/agrob2b-hub
 
 ---
 
